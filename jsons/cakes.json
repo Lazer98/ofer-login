@@ -1,0 +1,106 @@
+[{
+  "_id": {
+    "$oid": "62828bfedebb54a31bca84db"
+  },
+  "name": "Banana cake",
+  "info": "The best Banana cake with tons of vietamen D",
+  "price": 80,
+  "img_url": "https://images.pexels.com/photos/47812/bananas-dessert-ice-cream-fruit-47812.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1652722593260"
+    }
+  },
+  "user_id": "6280bec1d8cc42208d2c43ae",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62828dbadebb54a31bca84dd"
+  },
+  "name": "Mango cake",
+  "info": "The best Mango cake with tons of vietamen D",
+  "price": 80,
+  "img_url": "https://images.pexels.com/photos/47812/bananas-dessert-ice-cream-fruit-47812.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1652722593260"
+    }
+  },
+  "user_id": "6280bec1d8cc42208d2c43ae",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62828dc9debb54a31bca84df"
+  },
+  "name": "Kiwi cake",
+  "info": "The best Kiwi cake with tons of vietamen C",
+  "price": 80,
+  "img_url": "https://images.pexels.com/photos/47812/bananas-dessert-ice-cream-fruit-47812.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1652722593260"
+    }
+  },
+  "user_id": "6280bec1d8cc42208d2c43ae",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62828ecedebb54a31bca84e2"
+  },
+  "name": "Chocolade cake",
+  "info": "The best chocolade cake with tons of sugar ",
+  "price": 80,
+  "img_url": "https://images.pexels.com/photos/47812/bananas-dessert-ice-cream-fruit-47812.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1652722593260"
+    }
+  },
+  "user_id": "6280bcb2d8cc42208d2c43aa",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62828ee6debb54a31bca84e4"
+  },
+  "name": "vanilla cake",
+  "info": "The best vanilla cake with tons of sugar ",
+  "price": 80,
+  "img_url": "https://images.pexels.com/photos/47812/bananas-dessert-ice-cream-fruit-47812.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1652722593260"
+    }
+  },
+  "user_id": "6280bcb2d8cc42208d2c43aa",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62828ef1debb54a31bca84e6"
+  },
+  "name": "orego cake",
+  "info": "The best orego cake with tons of sugar ",
+  "price": 80,
+  "img_url": "https://images.pexels.com/photos/47812/bananas-dessert-ice-cream-fruit-47812.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1652722593260"
+    }
+  },
+  "user_id": "6280bcb2d8cc42208d2c43aa",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6284eae87f2d61f93f983e75"
+  },
+  "name": "chili cake",
+  "info": "the most spicy cake!",
+  "price": 152,
+  "img_url": "sssssssssssssss",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1652877998756"
+    }
+  },
+  "user_id": "6280bcb2d8cc42208d2c43aa",
+  "__v": 0
+}]

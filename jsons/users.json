@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "6280bcb2d8cc42208d2c43aa"
+  },
+  "name": "Tom Hanks",
+  "email": "tomhanks@gmail.com",
+  "password": "$2b$10$9WmFEoBz9MDdwnmC1mCJ3e/rNWZUJ6xe9GAIo7A69v/jOOO3MM.Du",
+  "address": "Dizengoff 12",
+  "phone": "05782534",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1652603977140"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6280bec1d8cc42208d2c43ae"
+  },
+  "name": "Bill Hanks",
+  "email": "billhanks@gmail.com",
+  "password": "$2b$10$ziKmDk.kXNGIKu8OKyWH/uohy.Bk6yu0MkoWBbCb1Wf7m8FBwZ1Bu",
+  "address": "Dizengoff 12",
+  "phone": "05782534",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1652603977140"
+    }
+  },
+  "__v": 0
+}]
