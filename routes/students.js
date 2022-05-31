@@ -40,7 +40,7 @@ router.get("/search",async(req,res)=>{
     try{
         let searchQ=req.query.s;
         let searchReg= new RegExp(searchQ,"i");
-        let data= await StudentModel.fin({$or:[{name:searchReg},{subject:searchReg}]})
+        let data= await StudentModel.find({$or:[{name:searchReg},{subject:searchReg}]})
         .limit(20)
         res.json(data);
 

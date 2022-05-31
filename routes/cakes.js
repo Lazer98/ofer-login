@@ -52,6 +52,17 @@ router.get("/userCakes", auth ,async(req,res) => {
   }
 })
 
+router.get("/byPrice" , async(req,res) => {
+  try{
+    let max= req.query.max || 9999;
+    let data= await CakeModel.find({price:{$lte:max}});
+    res.json(data);
+  }catch(err){
+    console.log(err);
+    res.status(500).json({msg_err:"There problem in server try again later"});
+    
+  }
+})
 
 
 router.post("/", auth, async(req,res) => {
